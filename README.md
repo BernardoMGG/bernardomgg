@@ -5,7 +5,7 @@
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bernardo__goncalves/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-gonçalves-4978a32b6/)
 
-[![graph](https://github-readme-stats.vercel.app/api?username=BernardoMGG&show_icons=true&theme=dark)
+[![graph](https://github-readme-stats.vercel.app/api?username=BernardoMGG&show_icons=true&theme=dark)](https://github.com/BernardoMGG/github-readme-stats)
 
 ## Linguagens de programacao que uso no dia-a-dia 🖥️
 
