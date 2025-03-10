@@ -1,4 +1,4 @@
-## Ola eu sou o Bernardo Gonçalves 🤙
+## Olá, eu sou Bernardo Gonçalves👍
 
 [![blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bbernardo.goncalves@gmail.com)
 [![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
